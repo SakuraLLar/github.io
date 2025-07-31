@@ -3,7 +3,6 @@
 <p align="center">
   <a href="mailto:player.l1nder@yandex.ru">📧 Email</a> •
   <a href="https://t.me/SakuraLLar">💬 Telegram</a> •
-  <a href="https://github.com/SakuraLLar">🐙 GitHub</a>
 </p>
 
 ---
